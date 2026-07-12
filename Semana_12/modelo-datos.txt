@@ -1,0 +1,21 @@
+Entidad: Usuario
+
+Campo: Descripción
+id: Identificador único del usuario.
+nombre: Nombre completo del ciudadano.
+correo: Correo electrónico del usuario.
+fecha_registro: Fecha en la que se registró en la plataforma.
+
+¿Para qué sirve?
+La entidad Usuario almacena la información de las personas que utilizan la plataforma para crear peticiones o participar en ellas.
+
+Entidad: Documento
+
+Campo: Descripción
+id: Identificador único del documento.
+usuario_id: Identificador del usuario que solicitó el documento.
+tipo: Tipo de documento generado (por ejemplo, derecho de petición o tutela).
+fecha_generacion: Fecha en la que el documento fue creado.
+
+¿Para qué sirve?
+La entidad Documento registra los documentos que genera el sistema para cada usuario, facilitando su consulta, descarga y posterior presentación ante la entidad correspondiente.

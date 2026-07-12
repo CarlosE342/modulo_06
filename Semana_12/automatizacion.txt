@@ -1,0 +1,3 @@
+Evento que activa la automatización: Un documento de petición es generado exitosamente en la plataforma.
+Mensaje que envia Telegram: "Se ha generado correctamente un nuevo documento de petición. Ya está disponible para su revisión y descarga."
+Información que no debe enviarse por seguridad: No se deben enviar nombres completos, números de identificación, correos electrónicos, direcciones, teléfonos, firmas, documentos adjuntos ni ningún otro dato personal o sensible del ciudadano.
